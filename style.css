@@ -1,0 +1,15 @@
+.visor {
+  width: 306px;
+  height: 50px;
+  border: 1px solid black;
+}
+
+tr td {
+  border: 1px solid black;
+  padding: 1rem 2rem;
+  background-color: lightgray;
+}
+
+tr td:hover {
+  cursor: pointer;
+}
